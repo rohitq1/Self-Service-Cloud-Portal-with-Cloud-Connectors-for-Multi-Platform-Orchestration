@@ -1,0 +1,6 @@
+google-cloud-compute
+google-cloud-storage
+google-api-python-client
+google-auth
+google-cloud-speech
+google-cloud-speech
