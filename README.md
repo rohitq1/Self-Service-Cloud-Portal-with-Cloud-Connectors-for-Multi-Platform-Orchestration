@@ -28,7 +28,7 @@ A cutting-edge **self-service cloud orchestration portal** that seamlessly integ
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/rohitq1/Emotion-Based-on-Recommandation-System.git
+git clone https://github.com/rohitq1/Self-Service-Cloud-Portal-with-Cloud-Connectors-for-Multi-Platform-Orchestration.git
 cd Multi-Cloud-Orchestration
 ```
 
